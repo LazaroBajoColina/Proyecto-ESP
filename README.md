@@ -1,2 +1,2 @@
 # Proyecto-ESP
-Proyecto de español elaborado en HTML5 y Casa en su versión 3. 
+Proyecto de español elaborado en HTML5 y Css en su versión 3. 
