@@ -1,0 +1,18 @@
+body{
+width: 200%; 
+margin: 10%; 
+background-color: #000000;
+font-family: 'Montserrat', sans-serif;
+ }
+h1{
+    color:white;
+ }
+p{
+    Color:white;
+  }
+footer{
+    color:#00FFB6;
+}
+ol,ul,p{
+    color:white;
+}
